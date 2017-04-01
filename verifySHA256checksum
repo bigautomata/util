@@ -1,0 +1,8 @@
+Simple command util to verify the signature and checksum SHA-256 digest key for the release package.
+
+Invoke the command on Mac OSx as:
+
+openssl sha -sha256 /Users/developer/Downloads/ideaIU-2017.1.dmg
+
+Output generated:
+SHA256(/Users/kigynoel/Downloads/ideaIU-2017.1.dmg)= f37b3b63276d9e0cc9784506ea3257cbf6b843095546f5afef07e08a04dc74c0
