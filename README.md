@@ -1,2 +1,2 @@
 # util
-Developer general utilities
+Package includes a collection of useful utilities to use for system and application development.
